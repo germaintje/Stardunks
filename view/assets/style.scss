@@ -1,0 +1,15 @@
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+  }
+
+  .zoek {
+    background: white;
+    border: 1px solid lightgray;
+    border-radius: 0px 5px 5px 0px;
+  }
+
+.zoekbalk {
+  border-radius: 5px 0px 0px 5px !important;
+  border-right: none !important;
+}
